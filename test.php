@@ -1,8 +1,8 @@
 <?php
 
 
-include 'HasDataTrait.php';	
-include 'ToArrayInterface.php';	
-include 'Collection.php';
+include 'src/HasDataTrait.php';	
+include 'src/ToArrayInterface.php';	
+include 'src/Collection.php';
 
 $test = new GuzzleHttp\Collection();

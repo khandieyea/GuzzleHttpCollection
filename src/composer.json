@@ -1,0 +1,14 @@
+{
+
+    "name": "khandieyea/guzzlehttpcollection",
+    "license": "GPLv2",
+    "autoload": {
+       "psr-4": {
+           "GuzzleHttp\\": "src" 
+       }
+   	},
+    "require": {
+        "php": ">=5.5.9"
+    }
+
+}
